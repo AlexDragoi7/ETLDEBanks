@@ -1,0 +1,12 @@
+2024-Feb-07-18-36-10 ETL process initiated
+2024-Feb-07-18-36-10 Preparing for extraction of data
+2024-Feb-07-18-36-10 Data extraction phase started
+2024-Feb-07-18-36-10 Data extraction phase finished
+2024-Feb-07-18-36-10 Data transformation phase initiated
+2024-Feb-07-18-36-11 Data transformation phase finished
+2024-Feb-07-18-36-11 Loading transformed data to CSV
+2024-Feb-07-18-36-11 Data loaded to CSV succesfully
+2024-Feb-07-18-36-11 Data loading to DB Banks.db initiated
+2024-Feb-07-18-36-11 Data loaded succesfully to Banks.db database
+2024-Feb-07-18-36-11 Queries ran succesfully
+2024-Feb-07-18-36-11 ETL process finished!

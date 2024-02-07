@@ -1,1 +1,1 @@
-#ETLDEBANKS
+Web scraping Python script used to extract, transform and load data about the largest 10 banks in the world. This Data Engineering script uses BeautifulSoup to extract and parse the HTML data, as well as other libraries for manipulating data such as Numpy and Pandas. Additionally, it uses SQLite3 to load and store the information in a database.
